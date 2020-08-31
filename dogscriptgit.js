@@ -7,6 +7,7 @@
     Day 1 to 7 Daily Exercises
 */
 
+// note - most of the javascript seems to be missing from this site as it is right now ****
 
 // function to check to be sure that the user wants to submit the form for sure or not - register page
 function confirm_submit() {
