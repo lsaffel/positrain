@@ -5,7 +5,7 @@
 <BODY>
 <?PHP
    /* This page prints the form field names and values
-   that were received
+   that were received. This PHP file was provided by a SAIT instructor.
     */
    print("<h1>Your form sent the following values:</h1>");
    print("<table border='1'><tr><th>FIELDNAME</th><th>VALUE</th></tr>");
